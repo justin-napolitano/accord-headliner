@@ -1,20 +1,19 @@
 +++
 title =  "Honda Accord Headliner Redo"
-date = "2024-06-12"
-description = "Redoing the headliner in a n old Honda Accord"
+date = "2024-06-14"
+description = "Redoing the headliner in an old Honda Accord"
 author = "Justin Napolitano"
 tags = ['automotive']
 images = ["my-baby-2.jpg"]
-featuredimage = ["my-baby-2.jpg"]
 +++
 
-Look at that beautiful 12 year old Honda
+My beautiful 12 year old Honda
 
 ![my-baby](./photos/my-baby-2.jpg)
 
 ## Why
 
-The foam holding it in place to the headliner board deteriorated. I am too broke to buy a new liner... and the car is too old to make it perfect. 
+The foam holding it in place to the headliner board deteriorated. The car is too old to make it perfect so any headliner fabric will work.  
 
 
 ## Find a suitable headliner replacement fabric
@@ -25,7 +24,7 @@ I live in Texas and its hot. Really hot.  Without some insulation the heat from 
 
 ## Use some mylar
 
-I also have some old emergency blankets that I use for various projects and to build kits when I go out camping.  I plan to add a sheet or two to the top of the board to make sure to help refelct some of the summer heat away from the passenger compartment.  
+I also have some old emergency blankets that I use for various projects and to build kits when I go out camping.  I plan to add a sheet or two to the top of the board to make sure to help reflect some of the summer heat away from the passenger compartment.  
 
 ## Remove the headliner
 
@@ -64,7 +63,7 @@ The adhesive sets quickly, but I let it sit for about two hours prior to working
 
 ## Instal the mylar
 
-On the back of the board I laid out a sheet of mylar and cut holes in it to allow the plastic rivits and accessories to connect to the sheet metal of the roof of the car. I then sprayed the whole thing down with adhesive.  This was an easy step and far more forgiving than the headliner because it is out of site. 
+On the back of the board I laid out a sheet of mylar and cut holes in it to allow the plastic rivets and accessories to connect to the sheet metal of the roof of the car. I then sprayed the whole thing down with adhesive.  This was an easy step and far more forgiving than the headliner because it is out of site. 
 
 
 ## Reinstalling the headliner board
@@ -79,7 +78,7 @@ I just went in reverse from removal. It was a simple process.
 
 ### Reattach the headliner accessories
 
-Again go in reverse from what you had done previously.  If the acessories do not fit then some of the headliner material will likely need to be removed so the plastic can attach to the correct points in the sheet metal. 
+Again go in reverse from what you had done previously.  If the accessories do not fit then some of the headliner material will likely need to be removed so the plastic can attach to the correct points in the sheet metal. 
 
 ## Finished product
 
