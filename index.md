@@ -31,10 +31,10 @@ I also have some old emergency blankets that I use for various projects and to b
 
 The headliner is held together by just a few plastic rivets and the accessories in the the roof. Reference the video below
 
-[Headline Removal Link](https://www.youtube.com/watch?v=jVpBV9uR7Z8)
+<!-- [Headline Removal Link](https://www.youtube.com/watch?v=jVpBV9uR7Z8) -->
+{{< youtube "jVpBV9uR7Z8" >}}
 
-
-## Peeling off the headliner
+### Peeling off the headliner
 
 The foam on my headliner had completely deteriorated. I would recommend using a mask and safety glasses for this part of the job. 
 
@@ -46,7 +46,7 @@ The fabric is easy to peel off.  Just start by pulling it away.
 
 I made a mistake when I first started by using a wet brush that only caused the adhesive to stick everywhere. Once I let the brush dry, I took it to the board and scrubbed as much of the old foam away as I could.  I then took used adhesive remover to remove the old glue. After the solvent did its work I rinsed the whole thing off with a slightly damp rag 
 
-## Instal the new headliner
+## Install the new headliner
 
 ### Cut the new headliner
 
