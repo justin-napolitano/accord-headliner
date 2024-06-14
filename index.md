@@ -5,6 +5,7 @@ description = "Redoing the headliner in a n old Honda Accord"
 author = "Justin Napolitano"
 tags = ['automotive']
 images = ["my-baby-2.jpg"]
+featuredimage = ["my-baby-2.jpg"]
 +++
 
 Look at that beautiful 12 year old Honda
