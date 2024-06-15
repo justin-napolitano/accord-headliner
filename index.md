@@ -5,6 +5,7 @@ description = "Installing a suitable headliner"
 author = "Justin Napolitano"
 tags = ['automotive']
 images = ["my-baby-2.jpg"]
+image = "my-baby-2.jpg"
 +++
 
 My beautiful 12 year old Honda has a bad headliner.  It was gross. I did not like it. 
