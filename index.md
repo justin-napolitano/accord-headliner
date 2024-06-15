@@ -1,13 +1,13 @@
 +++
-title =  "Honda Accord Headliner Redo"
+title =  "Justin-ify my headliner"
 date = "2024-06-14"
-description = "Redoing the headliner in an old Honda Accord"
+description = "Installing a suitable headliner"
 author = "Justin Napolitano"
 tags = ['automotive']
 images = ["my-baby-2.jpg"]
 +++
 
-My beautiful 12 year old Honda
+My beautiful 12 year old Honda has a bad headliner.  It was gross. I did not like it. 
 
 ![my-baby](./photos/my-baby-2.jpg)
 
