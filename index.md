@@ -61,7 +61,7 @@ I adhered the headliner in strips starting at the top of the board moving to the
 
 The adhesive sets quickly, but I let it sit for about two hours prior to working with it again. 
 
-## Instal the mylar
+## Install the mylar
 
 On the back of the board I laid out a sheet of mylar and cut holes in it to allow the plastic rivets and accessories to connect to the sheet metal of the roof of the car. I then sprayed the whole thing down with adhesive.  This was an easy step and far more forgiving than the headliner because it is out of site. 
 
