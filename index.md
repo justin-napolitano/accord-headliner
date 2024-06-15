@@ -1,5 +1,5 @@
 +++
-title =  "Justin-ify my headliner"
+title =  "Justin-ify a Car Headliner"
 date = "2024-06-14"
 description = "Installing a suitable headliner"
 author = "Justin Napolitano"
