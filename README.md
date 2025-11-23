@@ -1,24 +1,25 @@
 # Honda Accord Headliner Redo
 
-A personal DIY project documenting the process of replacing the deteriorated headliner in a 12-year-old Honda Accord. This repo contains detailed notes, photos, and resources to guide anyone interested in tackling a similar automotive upholstery repair.
+This repository documents a personal DIY project focused on replacing the deteriorated headliner in a 12-year-old Honda Accord. It contains detailed notes, photos, and references to guide similar automotive upholstery repairs.
 
 ---
 
 ## Features
 
-- Step-by-step documentation with photos
-- Tips on materials and insulation for hot climates
-- Safety recommendations for removing old foam and fabric
-- Embedded video reference for headliner removal
+- Step-by-step documentation of the headliner replacement process
+- Photographic evidence supporting each stage
+- Advice on selecting materials and insulation suitable for hot climates
+- Safety tips for handling old foam and adhesives
+- Embedded video reference for headliner removal technique
 
 ## Tech Stack
 
-- Markdown for documentation
-- Static site content (likely for a personal blog or knowledge base)
+- Markdown for all documentation
+- Static content format, likely intended for a personal blog or knowledge base
 
 ## Getting Started
 
-This repository contains documentation and photos only. To view the content:
+This repository contains documentation and photos only. To access the content:
 
 1. Clone the repository:
 
@@ -27,7 +28,7 @@ This repository contains documentation and photos only. To view the content:
    cd accord-headliner
    ```
 
-2. View the markdown files (`readme.md`, `index.md`) in a Markdown viewer or text editor.
+2. Open the markdown files (`readme.md`, `index.md`) in a Markdown viewer or text editor.
 
 3. Browse the `photos` directory for accompanying images.
 
@@ -42,11 +43,11 @@ accord-headliner/
 
 ## Future Work / Roadmap
 
-- Complete the installation steps and final photos
-- Add more detailed instructions for adhesive types and tools
-- Include a cost breakdown and sourcing tips
-- Potentially create a video walkthrough
+- Complete the installation steps and add final photos
+- Provide detailed instructions on adhesive types and required tools
+- Include cost breakdown and sourcing recommendations
+- Potentially develop a video walkthrough of the entire process
 
 ---
 
-*Note: This project is a personal DIY documentation and not a software application.*
+*Note: This repository is a personal DIY documentation project and does not contain software code.*
