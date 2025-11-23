@@ -1,90 +1,48 @@
-+++
-title =  "Justin-ify a Car Headliner"
-date = "2024-06-14"
-description = "Installing a suitable headliner"
-author = "Justin Napolitano"
-tags = ['automotive']
-images = ["images/feature-image.png"]
-categories = ["DIY"]
-+++
-
-My beautiful 12 year old Honda has a bad headliner.  It was gross. I did not like it. 
-
-![my-baby](./photos/my-baby-2.jpg)
-
-## Why
-
-The foam holding it in place to the headliner board deteriorated. The car is too old to make it perfect so any headliner fabric will work.  
+---
+slug: "github-accord-headliner"
+title: "accord-headliner"
+repo: "justin-napolitano/accord-headliner"
+githubUrl: "https://github.com/justin-napolitano/accord-headliner"
+generatedAt: "2025-11-23T08:10:28.033161Z"
+source: "github-auto"
+---
 
 
-## Find a suitable headliner replacement fabric
+# Justin-ify a Car Headliner
 
-I live in Texas and its hot. Really hot.  Without some insulation the heat from the sun would bake me inside my car.  I have an old quilt with some sort of poly batting that I will use for the headliner.
+## Installing a Suitable Headliner
 
-![old quilt](./photos/quilt-1.jpg)
+Hey there! I’m Justin Napolitano, and I want to share a little project I recently tackled on my 12-year-old Honda Accord — redoing the headliner. If you’re like me, you love your car but sometimes the wear and tear just gets to it. In my case, the foam holding the headliner fabric had completely deteriorated, turning it into a sad, saggy mess. 
 
-## Use some mylar
+### Why I Did This
 
-I also have some old emergency blankets that I use for various projects and to build kits when I go out camping.  I plan to add a sheet or two to the top of the board to make sure to help reflect some of the summer heat away from the passenger compartment.  
+Living in Texas means dealing with some seriously hot summers. The original headliner was falling apart, and without some insulation, the sun’s heat would just bake me inside my car. Buying a new headliner was out of the question — my car is too old, and my wallet too light. So, I decided to DIY it with some materials I already had around.
 
-## Remove the headliner
+### What I Used
 
-The headliner is held together by just a few plastic rivets and the accessories in the the roof. Reference the video below
+- **Old Quilt:** I had an old quilt with some poly batting that I figured would make a decent insulating layer.
+- **Mylar Emergency Blankets:** I added a sheet or two of these to the top of the headliner board to reflect heat away from the passenger compartment.
 
-<!-- [Headline Removal Link](https://www.youtube.com/watch?v=jVpBV9uR7Z8) -->
-{{< youtube "jVpBV9uR7Z8" >}}
+### The Process
 
-### Peeling off the headliner
+The headliner was held by a few plastic rivets and roof accessories. I found a helpful YouTube video ([Headline Removal Link](https://www.youtube.com/watch?v=jVpBV9uR7Z8)) that guided me through the removal.
 
-The foam on my headliner had completely deteriorated. I would recommend using a mask and safety glasses for this part of the job. 
+Peeling off the fabric was surprisingly easy, but the foam underneath was a nightmare. It had completely deteriorated, so I recommend wearing a mask and safety glasses when scraping it off. I initially made the mistake of using a wet brush, which just made the adhesive stick everywhere. Once dry, I scrubbed off as much foam as I could, then used adhesive remover to get rid of the old glue. After letting the solvent work, I rinsed everything with a slightly damp rag.
 
-### Remove the fabric
+### Installing the New Headliner
 
-The fabric is easy to peel off.  Just start by pulling it away. 
+The next step was to cut the new headliner material to size and place it onto the board. I planned to use the quilt and mylar layers to help with insulation and heat reflection. 
 
-### Remove the excess foam
+### What I Learned
 
-I made a mistake when I first started by using a wet brush that only caused the adhesive to stick everywhere. Once I let the brush dry, I took it to the board and scrubbed as much of the old foam away as I could.  I then took used adhesive remover to remove the old glue. After the solvent did its work I rinsed the whole thing off with a slightly damp rag 
+- Safety first: old foam can be messy and potentially harmful, so protective gear is a must.
+- Patience pays off: letting adhesive remover do its work before scrubbing saved me a lot of frustration.
+- Using materials you already have can make a project affordable and rewarding.
 
-## Install the new headliner
+## Why this project matters for my career
 
-### Cut the new headliner
+As a developer, I spend a lot of time solving problems logically and creatively. Taking on a hands-on DIY project like this reminds me that problem-solving isn’t just about code — it’s about persistence, adaptability, and making do with what you have. Documenting this project also helps me improve my technical writing skills and share knowledge clearly, which is invaluable when collaborating on software projects or contributing to open source. Plus, it’s a fun break from the screen!
 
-First place the headliner material onto the board.  Then, put the accessories removed from the headliner in the previous steps into place.  With a razor cut holes in the board to fit the accessories. Place them through the headliner as if they were attached to the board.  When all are in place cut the excess headliner material around the board leaving about 2 inches or so to fold around the edges.
+---
 
-### Glue to the board
-
-Use a headliner adhesive. I used a 3M headliner adhesive that seems to have worked well and is holding up in the summer heat.  
-
-I adhered the headliner in strips starting at the top of the board moving to the back. I went about a quarter of the board at a time and placed the accessories into their correct spots as I glued. 
-
-### Wait to set
-
-The adhesive sets quickly, but I let it sit for about two hours prior to working with it again. 
-
-## Install the mylar
-
-On the back of the board I laid out a sheet of mylar and cut holes in it to allow the plastic rivets and accessories to connect to the sheet metal of the roof of the car. I then sprayed the whole thing down with adhesive.  This was an easy step and far more forgiving than the headliner because it is out of site. 
-
-
-## Reinstalling the headliner board
-
-### Get the board in the car
-
-To get the board back into the car, I had to remove the head supports from the the seats and move the seats as far back as possible. I then pushed the back of the board into the car first and slowly maneuvered the board into place. 
-
-### Reattach the board
-
-I just went in reverse from removal. It was a simple process. 
-
-### Reattach the headliner accessories
-
-Again go in reverse from what you had done previously.  If the accessories do not fit then some of the headliner material will likely need to be removed so the plastic can attach to the correct points in the sheet metal. 
-
-## Finished product
-
-The finished headliner looks okay..I admit it looks kinda diy, but that is the thrill of doing things like this.  The quilt goes well enough with the car to not be annoying.  The mylar sheets work surprisingly well. I am considering going back and filling the empty space with aluminum foil clumps to improve the insulating power.
-
-![headliner-1](./photos/roof_1.jpg)
-![headliner-2](./photos/roof_2.jpg)
-![headliner-3](./photos/roof_3.jpg)
+Thanks for reading! If you’re thinking about tackling your own car upholstery project, I hope this gives you some inspiration and practical tips. Feel free to check out the photos and detailed notes in the repo. Happy DIYing!
