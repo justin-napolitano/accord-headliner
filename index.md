@@ -1,12 +1,28 @@
 ---
-slug: "github-accord-headliner"
-title: "accord-headliner"
-repo: "justin-napolitano/accord-headliner"
-githubUrl: "https://github.com/justin-napolitano/accord-headliner"
-generatedAt: "2025-11-23T08:33:47.527836Z"
-source: "github-auto"
+slug: github-accord-headliner
+title: DIY Headliner Replacement for a 2008 Honda Accord with Insulation
+repo: justin-napolitano/accord-headliner
+githubUrl: https://github.com/justin-napolitano/accord-headliner
+generatedAt: '2025-11-23T08:33:47.527836Z'
+source: github-auto
+summary: >-
+  Documentation of removing and restoring a deteriorated headliner in a 12-year-old Honda Accord
+  using repurposed insulation and careful adhesive removal.
+tags:
+  - honda-accord
+  - headliner-replacement
+  - automotive-upholstery
+  - diy-repair
+  - insulation
+  - adhesive-removal
+seoPrimaryKeyword: honda accord headliner replacement
+seoSecondaryKeywords:
+  - diy automotive upholstery
+  - headliner repair
+  - foam removal
+  - vehicle insulation
+seoOptimized: true
 ---
-
 
 # Honda Accord Headliner Replacement
 
