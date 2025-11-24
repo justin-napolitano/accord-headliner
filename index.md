@@ -22,6 +22,13 @@ seoSecondaryKeywords:
   - foam removal
   - vehicle insulation
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.85
+topicFamilyNotes: >-
+  The post is a detailed personal DIY project documenting automotive upholstery repair, focusing on
+  hands-on restoration rather than software or automation. It fits best with the 'personal'
+  category, which covers personal journals and practical reflections, given no automotive or DIY
+  repair-specific category exists.
 ---
 
 # Honda Accord Headliner Replacement
@@ -54,3 +61,4 @@ Once the board was cleaned and prepared, the new headliner fabric was cut to siz
 This project serves as a practical reference for DIY automotive upholstery repair focused on headliner replacement. It emphasizes cost-effective material reuse, careful preparation, and safety considerations. The documentation is intended as a technical guide for future reference rather than a polished tutorial.
 
 Further work is needed to complete the installation documentation and provide detailed material and tool recommendations.
+
