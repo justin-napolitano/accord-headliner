@@ -1,19 +1,28 @@
 ---
 slug: github-accord-headliner
 id: github-accord-headliner
-title: Honda Accord Headliner Redo
+title: DIY Honda Accord Headliner Replacement Documentation
 repo: justin-napolitano/accord-headliner
 githubUrl: https://github.com/justin-napolitano/accord-headliner
 generatedAt: '2025-11-24T21:33:52.428Z'
 source: github-auto
 summary: >-
-  This repository documents a personal DIY project focused on replacing the
-  deteriorated headliner in a 12-year-old Honda Accord. It contains detailed
-  notes, photos, and references to guide similar automotive upholstery repairs.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Detailed documentation for replacing the headliner in a Honda Accord,
+  including materials, techniques, and safety tips.
+tags:
+  - automotive upholstery
+  - DIY projects
+  - markdown documentation
+  - Honda Accord
+  - headliner replacement
+seoPrimaryKeyword: honda accord headliner replacement
+seoSecondaryKeywords:
+  - automotive repair documentation
+  - DIY headliner guide
+  - car interior restoration
+  - upholstery tips
+  - vehicle maintenance
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
