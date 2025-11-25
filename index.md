@@ -1,13 +1,13 @@
 ---
 slug: github-accord-headliner
-title: DIY Headliner Replacement for a 2008 Honda Accord with Insulation
+title: Honda Accord Headliner Replacement Guide
 repo: justin-napolitano/accord-headliner
 githubUrl: https://github.com/justin-napolitano/accord-headliner
 generatedAt: '2025-11-23T08:33:47.527836Z'
 source: github-auto
 summary: >-
-  Documentation of removing and restoring a deteriorated headliner in a 12-year-old Honda Accord
-  using repurposed insulation and careful adhesive removal.
+  A practical guide to replacing the headliner in a Honda Accord using
+  cost-effective materials and methods.
 tags:
   - honda-accord
   - headliner-replacement
@@ -15,20 +15,30 @@ tags:
   - diy-repair
   - insulation
   - adhesive-removal
+  - honda accord
+  - automotive upholstery
+  - headliner replacement
+  - DIY repair
+  - markdown documentation
+  - insulation materials
 seoPrimaryKeyword: honda accord headliner replacement
 seoSecondaryKeywords:
-  - diy automotive upholstery
-  - headliner repair
-  - foam removal
-  - vehicle insulation
+  - automotive repair guide
+  - DIY headliner project
+  - cost-effective insulation
+  - upholstery repair techniques
+  - safety precautions in DIY
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.85
 topicFamilyNotes: >-
-  The post is a detailed personal DIY project documenting automotive upholstery repair, focusing on
-  hands-on restoration rather than software or automation. It fits best with the 'personal'
-  category, which covers personal journals and practical reflections, given no automotive or DIY
-  repair-specific category exists.
+  The post is a detailed personal DIY project documenting automotive upholstery
+  repair, focusing on hands-on restoration rather than software or automation.
+  It fits best with the 'personal' category, which covers personal journals and
+  practical reflections, given no automotive or DIY repair-specific category
+  exists.
+kind: project
+id: github-accord-headliner
 ---
 
 # Honda Accord Headliner Replacement
